@@ -44,7 +44,7 @@ window.onload = function(){
 }
 
 //You can change the date and time to whatever you want to count down to
-var countDownDate = new Date("December 20, 2017 15:00:00").getTime();
+var countDownDate = new Date("June 14, 2018 12:00:00").getTime();
 
 //Update the count down every 1 second
 var x = setInterval(function() {
